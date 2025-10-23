@@ -13,8 +13,10 @@ I am a 1st year student at [Irkutsk State University](https://isu.ru/ru "univers
   <img src="https://camo.githubusercontent.com/5283bbd4a873b24195ea172115f5e707e021c177ad69ccb4126d7c9727240fe4/68747470733a2f2f66757a65736572766572732e72752f77702d636f6e74656e742f75706c6f6164732f312f322f662f31326665383039353266376365353861336164633237633539326233613363392e706e67" width="300">
   <img src="https://i.pinimg.com/originals/79/09/89/7909897ceea2691e5a4942766c678ff3.png" width="130">
 </div>
+
 ***
-*I have a good command of:*
+ *I have a good command of:*
+
 <div style="display:flex">
 	<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikif40q4bZO9RD5D2_bA6gwMaxoyBzKPs8hf-vqd_Raiehz9_6xhYe1FmbEnWZ6LnnpumSd5KSTrcy6gN0izQlb6KUWHdXxGR0qVQeQJOkPJeoFLBQSzrjVl9PaixaNLpFi0kw2YxltGcdCzIUm3NdgnM_8BjeePWaiA3p07F6NAugJs3Bzg6XBZn8/s1280/adobe%20photoshop%20icons.png" width="300">
   <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/d1/f7/c3d1f798-d6b3-0240-5a46-f8706c1ab47c/icon.png/1200x630bb.png" width="140">
