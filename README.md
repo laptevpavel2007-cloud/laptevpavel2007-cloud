@@ -14,7 +14,7 @@ I am a 1st year student at [Irkutsk State University](https://isu.ru/ru "univers
   <img src="https://i.pinimg.com/originals/79/09/89/7909897ceea2691e5a4942766c678ff3.png" width="130">
 </div>
 ***
- *I have a good command of:*
+*I have a good command of:*
 <div style="display:flex">
 	<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikif40q4bZO9RD5D2_bA6gwMaxoyBzKPs8hf-vqd_Raiehz9_6xhYe1FmbEnWZ6LnnpumSd5KSTrcy6gN0izQlb6KUWHdXxGR0qVQeQJOkPJeoFLBQSzrjVl9PaixaNLpFi0kw2YxltGcdCzIUm3NdgnM_8BjeePWaiA3p07F6NAugJs3Bzg6XBZn8/s1280/adobe%20photoshop%20icons.png" width="300">
   <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/d1/f7/c3d1f798-d6b3-0240-5a46-f8706c1ab47c/icon.png/1200x630bb.png" width="140">
